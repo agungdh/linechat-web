@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {DefaultComponent} from "../layout/default/default.component";
+import {DefaultComponent} from "../../layout/default/default.component";
 
 @Component({
   selector: 'app-user',
